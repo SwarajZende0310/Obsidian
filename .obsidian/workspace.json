@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2773ec179417a555",
+        "id": "fce72648a6de65b5",
         "type": "tabs",
         "children": [
           {
-            "id": "1449e336b0ca1d15",
+            "id": "e63744bedb6084fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Modbus Communication"
             }
-          },
-          {
-            "id": "37b32cd7afa24824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main Notes/Shallow Copy and Deep Copy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Shallow Copy and Deep Copy"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,19 +179,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4bc16cc86f7a724d",
+  "active": "e63744bedb6084fc",
   "lastOpenFiles": [
+    "3 - Tags/PC_PLC_communication.md",
+    "1 - Rough Notes/Things to Lookup.md",
+    "6 - Main Notes/Dynamic Library.md",
+    "3 - Tags/C++.md",
+    "6 - Main Notes/Enum and Enum Classes.md",
+    "6 - Main Notes/Static Library.md",
+    "3 - Tags/Library.md",
+    "6 - Main Notes/Jiffies.md",
+    "6 - Main Notes/Memory Utilisation.md",
     "3 - Tags/Memory.md",
     "6 - Main Notes/Shallow Copy and Deep Copy.md",
-    "3 - Tags/C++.md",
+    "6 - Main Notes/system calls.md",
+    "6 - Main Notes/system timer.md",
+    "6 - Main Notes/Uptime.md",
+    "6 - Main Notes/Wall TIme.md",
+    "Untitled.canvas",
+    "3 - Tags/Unborn.md",
+    "3 - Tags/OS.md",
+    "3 - Tags/Linux.md",
+    "6 - Main Notes/Friend Class.md",
+    "3 - Tags/Class.md",
     "6 - Main Notes/Modbus Communication.md",
+    "6 - Main Notes/const and constexpr.md",
+    "2025-07-02.md",
     "3 - Tags/Adult.md",
-    "3 - Tags/PC_PLC_communication.md",
     "3 - Tags/Communication.md",
     "3 - Tags/Baby.md",
-    "Modbus.md",
-    "5 - Templates/Full Note.md",
-    "Welcome.md",
     "6 - Main Notes",
     "5 - Templates",
     "4 - Indexes",
